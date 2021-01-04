@@ -1,0 +1,14 @@
+h3 {
+    text-align: center;
+}
+
+div.description {
+    font-style: italic;
+    text-align: center;
+}
+
+.link {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+}
